@@ -10,7 +10,7 @@
 
 <h3 align="center">Software Engineer Python from Russia 🇷🇺</h3>
 
-<a href="https://t.me/ymishin_job" target="_blank" style=color:"white">Telegram</a>
+<a href="https://t.me/ymishin_job" target="_blank" style="color:white">Telegram</a>
 
 <!--
 **mishinyura/mishinyura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
