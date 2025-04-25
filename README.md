@@ -9,7 +9,8 @@
 ---
 
 <h3 align="center">
-  Software Engineer Python from Russia 🇷🇺
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer+Python+from+Russia)](https://git.io/typing-svg)
+ 
 </h3>
 
 <a href="https://t.me/ymishin_job" target="_blank" color="white">
