@@ -8,7 +8,9 @@
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+Python+from+Russia" alt="Typing SVG" align="center"/></a>
+<a href="https://git.io/typing-svg" align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+Python+from+Russia" alt="Typing SVG"/>
+</a>
 
 <a href="https://t.me/ymishin_job" target="_blank" color="white">
   Telegram
