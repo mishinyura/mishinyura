@@ -20,7 +20,7 @@ Admin: ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mishinyura&theme=solarized_dark)
 
 ### Statistic
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishinyura)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishinyura)](https://github.com/mishinyura)
 <!--
 **mishinyura/mishinyura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
