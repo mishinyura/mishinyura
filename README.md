@@ -8,10 +8,7 @@
 
 ---
 
-<h3 align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer+Python+from+Russia)](https://git.io/typing-svg)
- 
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+Python+from+Russia)](https://git.io/typing-svg)
 
 <a href="https://t.me/ymishin_job" target="_blank" color="white">
   Telegram
